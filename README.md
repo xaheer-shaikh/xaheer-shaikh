@@ -113,7 +113,7 @@
 
 ###
 
-[![An image of @xaheer-shaikh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xaheer-shaikh)](https://holopin.io/@xaheer-shaikh)
+[![An image of @xaheer-shaikh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@xaheer-shaikh)](https://holopin.io/@xaheer-shaikh)
 
 ###
 
