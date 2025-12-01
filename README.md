@@ -146,7 +146,10 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
   <br><br>
-  <img src="https://leetcode.card.workers.dev/xaheer-shaikh?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats Card" />
+  <strong>Total Solved:</strong> 52/3763 (<strong>1.38%</strong>)<br>
+  <strong>Easy:</strong> 15/915 (<strong>1.64%</strong>)<br>
+  <strong>Medium:</strong> 27/1960 (<strong>1.38%</strong>)<br>
+  <strong>Hard:</strong> 10/888 (<strong>1.13%</strong>)<br>
 </p>
 
 ###
