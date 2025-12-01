@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Zaheer Ali Shaikh</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4A90E2;">Zaheer Ali Shaikh</span></h1>
 
 ###
 
@@ -32,7 +32,29 @@
 
 ###
 
-<p align="left">A passionate Android Developer<br><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning Data Structures and Algorithm<br>- ⚡ In my free time I love to explore new things and technology.<br>- 👯 I’m looking to collaborate on Android Projects<br>- 📫 How to reach me zaheerocean@gmail.com</p>
+<p align="left">
+  <strong style="font-size:1.2em;">A passionate Full-stack Developer & Android Specialist</strong>
+  <br><br>
+  🔭 <strong>Currently working as:</strong> Full-stack Developer
+  <br>
+  📚 <strong>Learning:</strong> Data Structures and Algorithms
+  <br>
+  ⚡ <strong>Passion:</strong> Exploring new technologies and innovative solutions
+  <br>
+  👯 <strong>Open to collaborations on:</strong> Android Projects & Web Applications
+  <br>
+  📫 <strong>Contact me:</strong> <a href="mailto:zaheerocean@gmail.com" style="color:#4A90E2;"><strong>zaheerocean@gmail.com</strong></a>
+</p>
+
+###
+
+<h3 align="left">🌟 Professional Summary</h3>
+
+###
+
+<p align="left">
+  With expertise spanning <strong>Android development</strong> and <strong>full-stack web technologies</strong>, I bring a unique blend of mobile and web development skills to create seamless user experiences across platforms. My journey in tech is driven by continuous learning and a passion for solving complex problems through elegant code.
+</p>
 
 ###
 
