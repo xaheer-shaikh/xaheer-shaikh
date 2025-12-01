@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/xaheer-shaikh/xaheer-shaikh/blob/main/github_banner.png"  />
+  <img height="150" src="https://github.com/xaheer-shaikh/xaheer-shaikh/blob/main/github-header-banner.png"  />
 </div>
 
 ###
