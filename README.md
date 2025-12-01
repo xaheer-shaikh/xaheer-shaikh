@@ -137,6 +137,31 @@
 
 ###
 
+<h3 align="left">🏆   LeetCode Achievements :</h3>
+
+###
+
+<p align="left">
+  <a href="https://leetcode.com/xaheer-shaikh" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <br><br>
+  <img src="https://leetcode.card.workers.dev/xaheer-shaikh?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats Card" />
+</p>
+
+###
+
+<h3 align="left">📊   GitHub Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xaheer-shaikh&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaheer-shaikh&layout=compact&theme=dark" alt="Top Languages" height="180" />
+</div>
+
+###
+
 ## snake eating my contribution graph
 <img src="https://raw.githubusercontent.com/xaheer-shaikh/xaheer-shaikh/output/snake.svg" alt="Snake animation" />
 
