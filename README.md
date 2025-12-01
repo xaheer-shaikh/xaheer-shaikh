@@ -36,6 +36,44 @@
 
 ###
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+###
+
+<ul align="left">
+  <li><strong>📱 Android E-commerce App</strong> - Full-featured shopping application with Firebase backend</li>
+  <li><strong>📊 Task Management Dashboard</strong> - Web-based productivity tool built with React & Node.js</li>
+  <li><strong>💬 Real-time Chat Application</strong> - WebSocket-powered messaging platform</li>
+  <li><strong>📈 Stock Market Tracker</strong> - Financial data visualization with real-time updates</li>
+</ul>
+
+###
+
+<h3 align="left">🎯 Current Focus</h3>
+
+###
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Microservices-blueviolet" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Learning-Kubernetes-informational" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Exploring-Cloud%20Native-yellow" alt="Cloud Native" />
+</p>
+
+###
+
+<h3 align="left">🎲 Fun Facts</h3>
+
+###
+
+<ul align="left">
+  <li>⚡ Solved 52+ LeetCode problems and counting</li>
+  <li>📚 Read 20+ technical books last year</li>
+  <li>🌍 Contributed to open source projects from 5+ countries</li>
+  <li>☕ Can debug code faster with coffee in hand</li>
+</ul>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
