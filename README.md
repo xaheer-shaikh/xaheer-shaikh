@@ -221,16 +221,7 @@
 
 ###
 
-<h3 align="left">📊   GitHub Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaheer-shaikh&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
-  <!-- Top Languages section removed as images were not loading properly -->
-</div>
-
-###
 
 ## snake eating my contribution graph
 <img src="https://raw.githubusercontent.com/xaheer-shaikh/xaheer-shaikh/output/snake.svg" alt="Snake animation" />
