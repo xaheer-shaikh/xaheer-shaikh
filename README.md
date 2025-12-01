@@ -154,18 +154,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/Hard-10/888-red?style=flat-square" alt="Hard Problems"/>
   <br><br>
-  <!-- Progress bars for visual representation -->
-  <strong>Total Progress:</strong>
-  <img src="https://progress-bar.dev/1/?title=Overall" alt="Overall Progress"/>
-  <br>
-  <strong>Easy Progress:</strong>
-  <img src="https://progress-bar.dev/1/?title=Easy&color=green" alt="Easy Progress"/>
-  <br>
-  <strong>Medium Progress:</strong>
-  <img src="https://progress-bar.dev/1/?title=Medium&color=orange" alt="Medium Progress"/>
-  <br>
-  <strong>Hard Progress:</strong>
-  <img src="https://progress-bar.dev/1/?title=Hard&color=red" alt="Hard Progress"/>
+  <!-- Progress bars removed as they were not loading properly -->
 </p>
 
 ###
@@ -176,7 +165,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xaheer-shaikh&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaheer-shaikh&layout=compact&theme=dark" alt="Top Languages" height="180" />
+  <!-- Top Languages section removed as images were not loading properly -->
 </div>
 
 ###
