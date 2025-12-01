@@ -146,10 +146,26 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
   <br><br>
-  <strong>Total Solved:</strong> 52/3763 (<strong>1.38%</strong>)<br>
-  <strong>Easy:</strong> 15/915 (<strong>1.64%</strong>)<br>
-  <strong>Medium:</strong> 27/1960 (<strong>1.38%</strong>)<br>
-  <strong>Hard:</strong> 10/888 (<strong>1.13%</strong>)<br>
+  <img src="https://img.shields.io/badge/Solved-52/3763-blue?style=flat-square" alt="Total Solved"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Easy-15/915-green?style=flat-square" alt="Easy Problems"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Medium-27/1960-orange?style=flat-square" alt="Medium Problems"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Hard-10/888-red?style=flat-square" alt="Hard Problems"/>
+  <br><br>
+  <!-- Progress bars for visual representation -->
+  <strong>Total Progress:</strong>
+  <img src="https://progress-bar.dev/1/?title=Overall" alt="Overall Progress"/>
+  <br>
+  <strong>Easy Progress:</strong>
+  <img src="https://progress-bar.dev/1/?title=Easy&color=green" alt="Easy Progress"/>
+  <br>
+  <strong>Medium Progress:</strong>
+  <img src="https://progress-bar.dev/1/?title=Medium&color=orange" alt="Medium Progress"/>
+  <br>
+  <strong>Hard Progress:</strong>
+  <img src="https://progress-bar.dev/1/?title=Hard&color=red" alt="Hard Progress"/>
 </p>
 
 ###
