@@ -177,13 +177,7 @@
 ###
 
 
-<h3 align="left">Hactober Fest Badge</h3>
 
-###
-
-[![An image of @xaheershaikh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@xaheershaikh)](https://holopin.io/@xaheershaikh)
-
-###
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
